@@ -2,12 +2,6 @@
 
 ## Egg Timer
 
-Using concepts of
-
-- Tables
-- Permanent Storage
-- 2 view controllers
-
 Egg Timer is a timer that starts from 200 -> 0, you can
 
 - Start
